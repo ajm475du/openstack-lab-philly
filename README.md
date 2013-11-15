@@ -2,8 +2,8 @@
 
 This repo contains a Vagrantfile that will get you up and running with two basic CentOS 6.4 [RDO environment virtual machines](http://openstack.redhat.com/GettingStartedHavana_w_GRE) needed for the OpenStack hands on lab.
 
-[OpenStack Hands On Lab](http://ph.ly/devops1113)
-Tuesday November 19th 2013 @ 6pm
+[OpenStack Hands On Lab](http://ph.ly/devops1113)  
+Tuesday November 19th 2013 @ 6pm  
 presented by [OpenStack Philly](http://www.meetup.com/Philly-OpenStack-Meetup-Group/), [Philly DevOps](http://phillydevops.org)
 
 ## What do I need to run this?
